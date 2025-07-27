@@ -57,14 +57,3 @@ They run in the terminal and help new programmers understand how to build menu-d
 
 ---
 
-## 👨‍💻 Author
-
-**Sanjay Virat**  
-B.Tech in AI & ML @ SIET  
-Java & Cricket Enthusiast 🏏💻
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
